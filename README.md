@@ -1,4 +1,4 @@
-# Data Engineering ETL Projects
+# Index
 
 This repository serves as a centralized index of my Data Engineering ETL projects. Each project listed below focuses on real-world data extraction, transformation, and loading workflows using modern tools and best practices. The purpose of this repository is to provide quick access to individual projects without needing to search across multiple repositories.
 
