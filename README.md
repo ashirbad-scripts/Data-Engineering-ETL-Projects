@@ -10,39 +10,17 @@ This repository serves as a centralized index of my Data Engineering ETL project
 
 Extracts CO2 emissions data from raw source files, performs cleaning and transformation, and prepares structured data for analysis and storage. The pipeline focuses on handling real-world messy datasets and making them analysis-ready.
 
-Libraries used: numpy, pandas, sqlite3
+---
+
+### 2. [Chicago Public Safety Analysis](https://github.com/ashirbad-scripts/Data-Engineering-ETL-Projects/tree/main/Pipelines%20%26%20Projects/chicago_socioeconomics_analysis)
+
+Extracts and processes Chicago public safety datasets, performs data cleaning and structured transformations, and prepares the data for analysis and querying. Focuses on transforming raw civic data into usable analytical format.
 
 ---
 
-### 2. [Project Name Here](https://github.com/your-username/project-repo-link)
+## Notes
 
-**Description:**
-Short description of the project.
-
-**Tech Stack:**
-
-* Tool 1
-* Tool 2
-
----
-
-### 3. [Project Name Here](https://github.com/your-username/project-repo-link)
-
-**Description:**
-Short description of the project.
-
-**Tech Stack:**
-
-* Tool 1
-* Tool 2
-
----
-
-## How to Use This Index
-
-* Click on any project name to directly open its GitHub repository.
-* Each project contains complete implementation details, documentation, and setup instructions.
-* Projects are organized to reflect progressive complexity and real-world data engineering practices.
+This index will be continuously updated as new ETL projects are added.
 
 ---
 
@@ -65,11 +43,4 @@ This repository acts as a structured portfolio of my Data Engineering work. It d
 
 ## Author
 
-**Your Name**
-GitHub: [https://github.com/your-username](https://github.com/your-username)
-
----
-
-## Notes
-
-This index will be continuously updated as new ETL projects are added.
+**Ashirbad Routray**
